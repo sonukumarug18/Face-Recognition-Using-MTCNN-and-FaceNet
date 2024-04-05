@@ -1,4 +1,4 @@
-# Porject Title : Face Recognition using MTCNN and FaceNet
+# Project Title : Face Recognition using MTCNN and FaceNet
 
 1. Problem Statement-
     To identify or verify individuals based on their facial features captured in images.
